@@ -54,18 +54,14 @@ In this game, the player controls a character that moves horizontally to collect
 
 ---
 
-## How to Run
-
-### Prerequisites
-- Python 3.x
-- Pygame library
-
 ### Learning Outcomes
 - Understanding Pygame fundamentals
 - Event-driven programming
 - Collision detection logic
 - Game state management
 - Using games for social awareness
+
+---
 
 ### Future Enhancements
 - Multiple difficulty levels
